@@ -1,0 +1,11 @@
+---
+tags:
+ - MACIds
+---
+
+## MAC IDs
+ - VFD: 'D828C941F0CA`.  Add as PHS930BP1TS
+ - GEA3: 'D828C911F0DC'
+ - Former PHS930: 'D828c95ba354'
+ - Home range (PHS93X): 'D828C956E0B4'  '047BCB01382C'
+ - PMVA: `d828c930E9E0`
